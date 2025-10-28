@@ -2,12 +2,12 @@
 
 <p align="center"> A passionate backEnd developer from Perú </p>
 
-##🔭 I’m currently working on APIs REST in Node.js + SQL Server
+###🔭 I’m currently working on APIs REST in Node.js + SQL Server
   - Desarrollo de sistemas internos y APIs REST en Node.js + SQL Server.  
   - Asistente de TIC, realizando Mantenimiento y soporte técnico de infraestructura TIC.  
   - Diseño de interfaces amigables con React y TypeScript.
 
-##🌱 I’m currently learning React, C#
+###🌱 I’m currently learning React, C#
 
   - Buenas prácticas en arquitectura de software.  
   - Optimización de consultas SQL y procedimientos almacenados.  
