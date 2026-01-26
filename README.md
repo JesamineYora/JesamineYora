@@ -49,11 +49,6 @@
   <img src="https://komarev.com/ghpvc/?username=JesamineYora&label=Visitas&color=blueviolet&style=flat" alt="Contador de visitas"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesamineYora&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-
 ## 🌐 Conecta conmigo
 <p align="center">
   <a href="mailto:jesa16pp@gmail.com" target="_blank">
