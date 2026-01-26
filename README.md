@@ -67,7 +67,8 @@
   </a>
 </p>
 
-💼 **LinkedIn:** [linkedin.com/in/jesamineyora](https://www.linkedin.com/in/jesamine-ryora/)  
+💼 **LinkedIn:** [linkedin.com/in/jesamineyora](https://www.linkedin.com/in/jesamine-ryora/)
 💻 **GitHub:** [github.com/JesamineYora](https://github.com/JesamineYora)
+💻 **GitLab:** [gitlab.com/JesamineYora](https://gitlab.com/JesamineYora)
 
 
